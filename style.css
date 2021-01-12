@@ -1,0 +1,23 @@
+
+.panda-color{
+    background-color: #FCEAE8;
+    border-radius: 7px;
+}
+.panda-image img{
+    height:100px;
+    margin-left: 40px;
+}
+.panda-section{
+    border: 0;
+}
+
+.panda-footer{
+    background-color: white;
+    border:0;
+    margin-bottom: 15px;
+}
+
+.panda-style{
+    background-color:#FEEAE9;
+    border-radius: 10px;
+}
